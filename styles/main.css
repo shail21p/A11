@@ -56,8 +56,7 @@ main {
 main h1{
 	font-size: 150%;
 	background-color: white;
-	border-top: #931420 5px;
-	border-bottom: #931420 5px;
+	border: #931420 5px;
 	padding: 10px;
 	text-indent: 45px;
 }
